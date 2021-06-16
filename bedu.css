@@ -1,0 +1,29 @@
+
+body {
+    background-color: #FACC2E;
+    background-image:url(https://getmatcha.com/wp-content/themes/getmatcha/img/capterra.png) ;
+    font-family: "Open Sans", sans-serif;
+    text-decoration:blink; 
+  }
+h1{
+	font-family:  "Times New Roman",Georga,serfir;
+	font-size:"6";
+	font-weight:"bold";
+	text-align:center;
+	text-decoration: blink;
+		background-color:#46484c ;
+		h2{
+	font-family:  "Times New Roman",Georga,serfir;
+	font-size:"6";
+	font-weight:"bold";
+	text-align:center;
+	text-decoration: blink;
+		color:blueviolet;}
+        p {
+            color: #8b8b8bcc;
+            font-family: verdana;
+            font-size: 20px;
+            button{
+                color: #fff;
+                background-color: #025157;
+            }
